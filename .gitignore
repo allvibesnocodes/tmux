@@ -1,0 +1,10 @@
+# Secrets and API keys
+.env
+secret*
+credentials*
+
+# Neovim backups and undo history
+*.swp
+*.swo
+*~
+.netrwhist
